@@ -68,7 +68,7 @@ function turnPage(e) {
     }
     setTimeout(function () {
         input("remove")
-    }, 1000);
+    }, 1300);
 }
 /*
 
